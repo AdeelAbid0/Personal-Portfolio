@@ -55,13 +55,19 @@
   ],
   "projects": [
     {
+      "Name": "Prodoo",
+      "Summary": "Prodoo is a professional hiring platform that connects independent professionals with recruiters. Professionals can build detailed resumes, add skills and portfolios, while recruiters post job opportunities and search candidates. The system enables shortlisting, sending invitations, and contract signing—streamlining the end-to-end hiring workflow. ",
+      "img": "Prodoo.webp",
+      "link": "https://dev.prodoo.com/"
+    },
+    {
       "Name": "TechStore",
       "Summary": "I developed TechStore, an e-commerce web app featuring products like laptops, phones, watches, and accessories. Users can add items to the cart, manage quantities, view the total amount, and proceed to checkout seamlessly, and used following Technoligies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. ",
       "img": "ecomm.webp",
       "link": "https://techstore-43690.web.app/"
     },
     {
-      "Name": "CRM (Customer Relationship Management",
+      "Name": "CRM (Customer Relationship Management)",
       "Summary": "I built a ReactJS-based CRM with a dashboard showcasing enrollments and a seamless process for creating them, including personal info, device/SIM selection, shipping, plan choice, and payment via Authorize.net, Stripe, or PayPal, and used following Technoligies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Prime React, Redux Toolkit, GitHub, Firebase. ",
       "img": "CRM.webp",
       "link": "https://dev-talkdailyinc.teleyork.com/"

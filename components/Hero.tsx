@@ -16,8 +16,13 @@ function Hero() {
   return (
     <div className="h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden">
       <BackgroundCircles />
-      <div className="relative rounded-full h-32 w-32 mx-auto object-cover overflow-hidden">
-        <Image className="object-cover" src="/adeel.webp" alt="adeel" fill />
+      <div className="relative rounded-full h-[150px] w-[150px] mx-auto object-cover overflow-hidden">
+        <Image
+          className="object-cover w-[150px] h-[150px]"
+          src="/adeelabid.webp"
+          alt="adeel"
+          fill
+        />
       </div>
       <div className="z-20">
         <h2 className=" tracking-[5px] text-sm uppercase text-gray-500 pb-2 sm:tracking-[15px]">

@@ -32,7 +32,7 @@ function Contact() {
           </div>
           <div className="flex item-center space-x-5 justify-center">
             <MapPinIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse " />
-            <p>Kahuta, Rwp, Pakistan</p>
+            <p>Rawalpindi, Pakistan</p>
           </div>
         </div>
 
