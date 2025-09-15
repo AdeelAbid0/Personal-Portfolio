@@ -1,55 +1,112 @@
 {
   "about": {
-    "summary": "🌟 Greetings! I'm Adeel Abid, a nocturnal frontend sorcerer boasting expertise in  ReactJS, Redux Toolkit, and the enchanting arts of Tailwind CSS and SASS. With a magical coding journey spanning over 2 years, I've summoned responsive, user-friendly web spells that deliver a seamless user experience. My quest through the realms of frontend libraries and frameworks has been a thrilling adventure, crafting pixel-perfect designs and unraveling the secrets of UI/UX magic. 🚀 In this ever-evolving tech cosmos, I thrive on staying ahead, embracing the latest enchantments. Armed with 2 years of coding mastery, my mission is to conjure spells of clean, maintainable code—a testament to my commitment to creating digital experiences that transcend time. Let's embark on a journey together, where code dances and user experiences sparkle in the mystical glow of technology! ✨🌟",
+    "summary": "I am Adeel Abid, a passionate Frontend Developer with over 3 years of hands-on experience in building modern, responsive, and user-friendly web applications. Skilled in React.js, Redux Toolkit, Tailwind CSS, and SASS, I specialize in creating clean, maintainable, and scalable code that delivers seamless user experiences. My journey includes working on SaaS platforms, CRM systems, and freelance projects, where I implemented intuitive UI components, optimized performance, and collaborated within dynamic teams. Continuously learning and adapting to emerging technologies, my focus is on crafting pixel-perfect designs, enhancing user engagement, and contributing to innovative digital solutions.",
     "img": "/adeel.webp"
   },
   "experiences": [
+    {
+      "img": "innovative.webp",
+      "companyName": "Innovative Solutions & Development",
+      "role": "Frontend Developer (React.js)",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "techStack": [
+        "html",
+        "css",
+        "bootstrap",
+        "javascript",
+        "reactjs",
+        "redux",
+        "vscode",
+        "azure",
+        "sass",
+        "ant",
+        "git",
+        "github"
+      ],
+      "summary": [
+        "Contributing to the development of Prodoo (SaaS Platform) by enhancing user interface and user experience.",
+        "Implementing new features, UI upgrades, and SEO-friendly optimizations to improve website performance and accessibility.",
+        "Collaborating in a dynamic team environment, continuously improving frontend skills and ensuring modern, scalable, and maintainable code."
+      ]
+    },
     {
       "img": "Ziscomm.webp",
       "companyName": "ZISCOMM Pvt Ltd",
       "role": "Frontend Software Engineer",
       "startDate": "Sep 2023",
-      "endDate": "Present",
-      "techStack": ["reactjs", "redux", "vscode"],
+      "endDate": "Apr 2024",
+      "techStack": [
+        "html",
+        "css",
+        "bootstrap",
+        "javascript",
+        "reactjs",
+        "redux",
+        "vscode",
+        "jira",
+        "sass",
+        "primereact",
+        "git",
+        "github"
+      ],
       "summary": [
-        "As a Frontend Developer, I contribute to the development of a CRM project, leveraging MongoDB, Express.js, React, and Node.js.",
-        "My responsibilities include implementing features, debugging, and collaborating with senior developers to  ensure project success",
-        "Through this role, I continuously enhance my skills in Frontend development within a dynamic team environment"
+        "Developed a CRM project using MERN stack (MongoDB, Express.js, React, Node.js) with focus on frontend implementation.",
+        "Implemented new features, performed debugging, and collaborated with senior developers to ensure smooth project delivery.",
+        "Gained hands-on experience with PrimeReact, Sass, and Jira for project management and UI enhancement."
       ]
     },
     {
       "img": "ist.webp",
       "companyName": "Institute of Space and Technology",
-      "role": "Frontend Developer",
+      "role": "Frontend Developer (Final Year Project)",
       "startDate": "Sep 2022",
       "endDate": "Sep 2023",
-      "techStack": ["redux", "tailwind", "reactjs", "vscode"],
-
+      "techStack": [
+        "html",
+        "css",
+        "tailwind",
+        "bootstrap",
+        "javascript",
+        "reactjs",
+        "redux",
+        "vscode",
+        "git",
+        "github"
+      ],
       "summary": [
-        "Designed the user Interface of my Final Year Project (Online Car Service Station System) with user and admin panel having the functionality of adding services by user to cart.",
-        "Efficient, dynamic, and user-friendly."
+        "Designed and developed the Online Car Service Station System with separate user and admin panels.",
+        "Built features like service booking, cart functionality, and dynamic user interactions.",
+        "Ensured an efficient, user-friendly, and responsive design using modern frontend practices."
       ]
     },
     {
       "img": "fiver.webp",
-      "companyName": "Fiver",
-      "role": "Reactjs Developer",
+      "companyName": "Freelance – Fiverr / Upwork",
+      "role": "React.js Developer",
       "startDate": "Jun 2021",
       "endDate": "Jul 2023",
       "techStack": [
+        "html",
+        "css",
+        "bootstrap",
+        "javascript",
         "reactjs",
         "redux",
-        "tailwind",
-        "firebase",
         "vscode",
-        "photoshop",
-        "xd"
+        "azure",
+        "jira",
+        "sass",
+        "primereact",
+        "ant",
+        "git",
+        "github"
       ],
       "summary": [
-        "Completed 10+ projects as a Frontend Developer, specializing in website development and management systems.",
-        "Delivered tailored solutions for small businesses, optimizing their online presence and functionality.",
-        "Applied a customer-centric approach, ensuring client satisfaction and receiving positive reviews on both Fiverr and Upwork platforms.",
-        "Demonstrated versatility by successfully handling a variety of projects, showcasing adaptability to different industries and client needs."
+        "Completed 10+ freelance projects, including business websites and management systems.",
+        "Delivered customized solutions for small businesses, improving their online presence and functionality.",
+        "Maintained a client-first approach, achieving positive reviews and repeat business.",
+        "Adapted to different industries, showcasing flexibility and strong problem-solving skills."
       ]
     }
   ],
@@ -95,16 +152,24 @@
       ]
     },
     {
-      "title": "Teachnologies",
+      "title": "Technologies",
       "set": [
-        { "name": "css", "proficiency": 90 },
-        { "name": "tailwind", "proficiency": 80 },
+        { "name": "ant", "proficiency": 75 },
+        { "name": "azure", "proficiency": 70 },
         { "name": "bootstrap", "proficiency": 80 },
-        { "name": "reactjs", "proficiency": 90 },
-        { "name": "primereact", "proficiency": 80 },
+        { "name": "c++", "proficiency": 65 },
+        { "name": "css", "proficiency": 90 },
+        { "name": "git", "proficiency": 80 },
+        { "name": "github", "proficiency": 85 },
+        { "name": "html", "proficiency": 90 },
+        { "name": "javascript", "proficiency": 90 },
         { "name": "nextjs", "proficiency": 80, "bg": true },
+        { "name": "primereact", "proficiency": 80 },
+        { "name": "python", "proficiency": 60 },
+        { "name": "reactjs", "proficiency": 90 },
         { "name": "redux", "proficiency": 80 },
-        { "name": "sass", "proficiency": 85 }
+        { "name": "sass", "proficiency": 85 },
+        { "name": "tailwind", "proficiency": 80 }
       ]
     },
     {
@@ -113,7 +178,8 @@
         { "name": "vscode", "proficiency": 65 },
         { "name": "git", "proficiency": 75 },
         { "name": "github", "proficiency": 80 },
-        { "name": "jira", "proficiency": 80 }
+        { "name": "jira", "proficiency": 80 },
+        { "name": "azure", "proficiency": 80 }
       ]
     }
   ]
