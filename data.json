@@ -1,76 +1,145 @@
 {
   "about": {
-    "summary": "🌟 Greetings! I'm Adeel Abid, a nocturnal frontend sorcerer boasting expertise in  ReactJS, Redux Toolkit, and the enchanting arts of Tailwind CSS and SASS. With a magical coding journey spanning over 2 years, I've summoned responsive, user-friendly web spells that deliver a seamless user experience. My quest through the realms of frontend libraries and frameworks has been a thrilling adventure, crafting pixel-perfect designs and unraveling the secrets of UI/UX magic. 🚀 In this ever-evolving tech cosmos, I thrive on staying ahead, embracing the latest enchantments. Armed with 2 years of coding mastery, my mission is to conjure spells of clean, maintainable code—a testament to my commitment to creating digital experiences that transcend time. Let's embark on a journey together, where code dances and user experiences sparkle in the mystical glow of technology! ✨🌟",
+    "summary": "I am Adeel Abid, a passionate Frontend Developer with 3+ years of experience building modern, responsive, and user-friendly web applications. Skilled in React.js, Redux Toolkit, Tailwind CSS, and SASS, I focus on writing clean, scalable, and maintainable code. I have worked on SaaS platforms, CRM systems, and freelance projects, developing intuitive UI components, improving performance, and collaborating with teams. Currently, I am also working on my own car rental marketplace product. I continuously learn new technologies to create pixel-perfect designs and enhance user experiences.",
     "img": "/adeel.webp"
   },
   "experiences": [
+    {
+      "img": "innovative.webp",
+      "companyName": "Innovative Solutions & Development",
+      "role": "Frontend Developer (React.js)",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "techStack": [
+        "html",
+        "css",
+        "bootstrap",
+        "javascript",
+        "reactjs",
+        "redux",
+        "vscode",
+        "azure",
+        "sass",
+        "ant",
+        "git",
+        "github"
+      ],
+      "summary": [
+        "Contributing to the development of Prodoo (SaaS Platform) by enhancing user interface and user experience.",
+        "Implementing new features, UI upgrades, and SEO-friendly optimizations to improve website performance and accessibility.",
+        "Collaborating in a dynamic team environment, continuously improving frontend skills and ensuring modern, scalable, and maintainable code."
+      ]
+    },
     {
       "img": "Ziscomm.webp",
       "companyName": "ZISCOMM Pvt Ltd",
       "role": "Frontend Software Engineer",
       "startDate": "Sep 2023",
-      "endDate": "Present",
-      "techStack": ["reactjs", "redux", "vscode"],
+      "endDate": "Apr 2024",
+      "techStack": [
+        "html",
+        "css",
+        "bootstrap",
+        "javascript",
+        "reactjs",
+        "redux",
+        "vscode",
+        "jira",
+        "sass",
+        "primereact",
+        "git",
+        "github"
+      ],
       "summary": [
-        "As a Frontend Developer, I contribute to the development of a CRM project, leveraging MongoDB, Express.js, React, and Node.js.",
-        "My responsibilities include implementing features, debugging, and collaborating with senior developers to  ensure project success",
-        "Through this role, I continuously enhance my skills in Frontend development within a dynamic team environment"
+        "Developed a CRM project using MERN stack (MongoDB, Express.js, React, Node.js) with focus on frontend implementation.",
+        "Implemented new features, performed debugging, and collaborated with senior developers to ensure smooth project delivery.",
+        "Gained hands-on experience with PrimeReact, Sass, and Jira for project management and UI enhancement."
       ]
     },
     {
       "img": "ist.webp",
       "companyName": "Institute of Space and Technology",
-      "role": "Frontend Developer",
+      "role": "Frontend Developer (Final Year Project)",
       "startDate": "Sep 2022",
       "endDate": "Sep 2023",
-      "techStack": ["redux", "tailwind", "reactjs", "vscode"],
-
+      "techStack": [
+        "html",
+        "css",
+        "tailwind",
+        "bootstrap",
+        "javascript",
+        "reactjs",
+        "redux",
+        "vscode",
+        "git",
+        "github"
+      ],
       "summary": [
-        "Designed the user Interface of my Final Year Project (Online Car Service Station System) with user and admin panel having the functionality of adding services by user to cart.",
-        "Efficient, dynamic, and user-friendly."
+        "Designed and developed the Online Car Service Station System with separate user and admin panels.",
+        "Built features like service booking, cart functionality, and dynamic user interactions.",
+        "Ensured an efficient, user-friendly, and responsive design using modern frontend practices."
       ]
     },
     {
       "img": "fiver.webp",
-      "companyName": "Fiver",
-      "role": "Reactjs Developer",
+      "companyName": "Freelance – Fiverr / Upwork",
+      "role": "React.js Developer",
       "startDate": "Jun 2021",
       "endDate": "Jul 2023",
       "techStack": [
+        "html",
+        "css",
+        "bootstrap",
+        "javascript",
         "reactjs",
         "redux",
-        "tailwind",
-        "firebase",
         "vscode",
-        "photoshop",
-        "xd"
+        "azure",
+        "jira",
+        "sass",
+        "primereact",
+        "ant",
+        "git",
+        "github"
       ],
       "summary": [
-        "Completed 10+ projects as a Frontend Developer, specializing in website development and management systems.",
-        "Delivered tailored solutions for small businesses, optimizing their online presence and functionality.",
-        "Applied a customer-centric approach, ensuring client satisfaction and receiving positive reviews on both Fiverr and Upwork platforms.",
-        "Demonstrated versatility by successfully handling a variety of projects, showcasing adaptability to different industries and client needs."
+        "Completed 10+ freelance projects, including business websites and management systems.",
+        "Delivered customized solutions for small businesses, improving their online presence and functionality.",
+        "Maintained a client-first approach, achieving positive reviews and repeat business.",
+        "Adapted to different industries, showcasing flexibility and strong problem-solving skills."
       ]
     }
   ],
   "projects": [
     {
-      "Name": "TechStore",
-      "Summary": "I developed TechStore, an e-commerce web app featuring products like laptops, phones, watches, and accessories. Users can add items to the cart, manage quantities, view the total amount, and proceed to checkout seamlessly, and used following Technoligies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. ",
-      "img": "ecomm.webp",
-      "link": "https://techstore-43690.web.app/"
+      "Name": "Prodoo",
+      "Summary": "Prodoo is a professional hiring platform that connects independent professionals with recruiters. Professionals can build detailed resumes, add skills and portfolios, while recruiters post job opportunities and search candidates. The system enables shortlisting, sending invitations, and contract signing—streamlining the end-to-end hiring workflow. ",
+      "img": "Prodoo.webp",
+      "link": "https://dev.prodoo.com/"
     },
     {
-      "Name": "CRM (Customer Relationship Management",
-      "Summary": "I built a ReactJS-based CRM with a dashboard showcasing enrollments and a seamless process for creating them, including personal info, device/SIM selection, shipping, plan choice, and payment via Authorize.net, Stripe, or PayPal, and used following Technoligies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Prime React, Redux Toolkit, GitHub, Firebase. ",
+      "Name": "CRM (Customer Relationship Management)",
+      "Summary": "I built a ReactJS-based CRM with a dashboard showcasing enrollments and a seamless process for creating them, including personal info, device/SIM selection, shipping, plan choice, and payment via Authorize.net, Stripe, or PayPal, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Prime React, Redux Toolkit, GitHub, Firebase. ",
       "img": "CRM.webp",
       "link": "https://dev-talkdailyinc.teleyork.com/"
     },
     {
-      "Name": "Wordpress Theme Clone",
-      "Summary": "Cloned a wordpress theme during my Internship, and used following Technologies ==> HTML, CSS, JavaScript, Bootstrap, React.js, GitHub, Vercel. ",
-      "img": "wordpress.webp",
-      "link": "https://wordpress-theme.vercel.app/"
+      "Name": "TechStore",
+      "Summary": "I developed TechStore, an e-commerce web app featuring products like laptops, phones, watches, and accessories. Users can add items to the cart, manage quantities, view the total amount, and proceed to checkout seamlessly, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. ",
+      "img": "ecomm.webp",
+      "link": "https://techstore-43690.web.app/"
+    },
+    {
+      "Name": "Manzil Drive",
+      "Summary": "I developed Manzil Drive, a transportation management system for booking and managing rides with user profiles. Currently, I am working on a car rental marketplace where providers can create shops, list vehicles, and offer event-based booking packages, while users can browse and book cars online. Real-time tracking and payment integration are planned for future updates. Following Technologies were used ==> HTML, CSS, Tailwind CSS, JavaScript, React.js, Redux Toolkit, React Query, Firebase, GitHub, Node.js, Express.js, MongoDB, Vercel. ",
+      "img": "manzil-dashboard.webp",
+      "link": "https://manzil-drive.vercel.app/"
+    },
+    {
+      "Name": "FIXnGO",
+      "Summary": "I developed FIXnGO, a platform for connecting customers with local service providers. The app features real-time booking, user profiles, and seamless payment integration, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. Following Technologies were used ==> HTML, CSS, Tailwind CSS, JavaScript, React.js, Redux Toolkit, React Query, Azure, Vercel, SQL",
+      "img": "fixngo.webp",
+      "link": "https://car-services-iota.vercel.app/"
     },
     {
       "Name": "Online Car Service Station",
@@ -89,16 +158,24 @@
       ]
     },
     {
-      "title": "Teachnologies",
+      "title": "Technologies",
       "set": [
-        { "name": "css", "proficiency": 90 },
-        { "name": "tailwind", "proficiency": 80 },
+        { "name": "ant", "proficiency": 75 },
+        { "name": "azure", "proficiency": 70 },
         { "name": "bootstrap", "proficiency": 80 },
-        { "name": "reactjs", "proficiency": 90 },
-        { "name": "primereact", "proficiency": 80 },
+        { "name": "c++", "proficiency": 65 },
+        { "name": "css", "proficiency": 90 },
+        { "name": "git", "proficiency": 80 },
+        { "name": "github", "proficiency": 85 },
+        { "name": "html", "proficiency": 90 },
+        { "name": "javascript", "proficiency": 90 },
         { "name": "nextjs", "proficiency": 80, "bg": true },
+        { "name": "primereact", "proficiency": 80 },
+        { "name": "python", "proficiency": 60 },
+        { "name": "reactjs", "proficiency": 90 },
         { "name": "redux", "proficiency": 80 },
-        { "name": "sass", "proficiency": 85 }
+        { "name": "sass", "proficiency": 85 },
+        { "name": "tailwind", "proficiency": 80 }
       ]
     },
     {
@@ -107,7 +184,8 @@
         { "name": "vscode", "proficiency": 65 },
         { "name": "git", "proficiency": 75 },
         { "name": "github", "proficiency": 80 },
-        { "name": "jira", "proficiency": 80 }
+        { "name": "jira", "proficiency": 80 },
+        { "name": "azure", "proficiency": 80 }
       ]
     }
   ]
