@@ -1,6 +1,6 @@
 {
   "about": {
-    "summary": "I am Adeel Abid, a passionate Frontend Developer with over 3 years of hands-on experience in building modern, responsive, and user-friendly web applications. Skilled in React.js, Redux Toolkit, Tailwind CSS, and SASS, I specialize in creating clean, maintainable, and scalable code that delivers seamless user experiences. My journey includes working on SaaS platforms, CRM systems, and freelance projects, where I implemented intuitive UI components, optimized performance, and collaborated within dynamic teams. Continuously learning and adapting to emerging technologies, my focus is on crafting pixel-perfect designs, enhancing user engagement, and contributing to innovative digital solutions.",
+    "summary": "I am Adeel Abid, a passionate Frontend Developer with 3+ years of experience building modern, responsive, and user-friendly web applications. Skilled in React.js, Redux Toolkit, Tailwind CSS, and SASS, I focus on writing clean, scalable, and maintainable code. I have worked on SaaS platforms, CRM systems, and freelance projects, developing intuitive UI components, improving performance, and collaborating with teams. Currently, I am also working on my own car rental marketplace product. I continuously learn new technologies to create pixel-perfect designs and enhance user experiences.",
     "img": "/adeel.webp"
   },
   "experiences": [
@@ -118,22 +118,28 @@
       "link": "https://dev.prodoo.com/"
     },
     {
-      "Name": "TechStore",
-      "Summary": "I developed TechStore, an e-commerce web app featuring products like laptops, phones, watches, and accessories. Users can add items to the cart, manage quantities, view the total amount, and proceed to checkout seamlessly, and used following Technoligies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. ",
-      "img": "ecomm.webp",
-      "link": "https://techstore-43690.web.app/"
-    },
-    {
       "Name": "CRM (Customer Relationship Management)",
-      "Summary": "I built a ReactJS-based CRM with a dashboard showcasing enrollments and a seamless process for creating them, including personal info, device/SIM selection, shipping, plan choice, and payment via Authorize.net, Stripe, or PayPal, and used following Technoligies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Prime React, Redux Toolkit, GitHub, Firebase. ",
+      "Summary": "I built a ReactJS-based CRM with a dashboard showcasing enrollments and a seamless process for creating them, including personal info, device/SIM selection, shipping, plan choice, and payment via Authorize.net, Stripe, or PayPal, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Prime React, Redux Toolkit, GitHub, Firebase. ",
       "img": "CRM.webp",
       "link": "https://dev-talkdailyinc.teleyork.com/"
     },
     {
-      "Name": "Wordpress Theme Clone",
-      "Summary": "Cloned a wordpress theme during my Internship, and used following Technologies ==> HTML, CSS, JavaScript, Bootstrap, React.js, GitHub, Vercel. ",
-      "img": "wordpress.webp",
-      "link": "https://wordpress-theme.vercel.app/"
+      "Name": "TechStore",
+      "Summary": "I developed TechStore, an e-commerce web app featuring products like laptops, phones, watches, and accessories. Users can add items to the cart, manage quantities, view the total amount, and proceed to checkout seamlessly, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. ",
+      "img": "ecomm.webp",
+      "link": "https://techstore-43690.web.app/"
+    },
+    {
+      "Name": "Manzil Drive",
+      "Summary": "I developed Manzil Drive, a transportation management system for booking and managing rides with user profiles. Currently, I am working on a car rental marketplace where providers can create shops, list vehicles, and offer event-based booking packages, while users can browse and book cars online. Real-time tracking and payment integration are planned for future updates. Following Technologies were used ==> HTML, CSS, Tailwind CSS, JavaScript, React.js, Redux Toolkit, React Query, Firebase, GitHub, Node.js, Express.js, MongoDB, Vercel. ",
+      "img": "manzil-dashboard.webp",
+      "link": "https://manzil-drive.vercel.app/"
+    },
+    {
+      "Name": "FIXnGO",
+      "Summary": "I developed FIXnGO, a platform for connecting customers with local service providers. The app features real-time booking, user profiles, and seamless payment integration, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. Following Technologies were used ==> HTML, CSS, Tailwind CSS, JavaScript, React.js, Redux Toolkit, React Query, Azure, Vercel, SQL",
+      "img": "fixngo.webp",
+      "link": "https://car-services-iota.vercel.app/"
     },
     {
       "Name": "Online Car Service Station",
