@@ -121,7 +121,7 @@
       "Name": "CRM (Customer Relationship Management)",
       "Summary": "I built a ReactJS-based CRM with a dashboard showcasing enrollments and a seamless process for creating them, including personal info, device/SIM selection, shipping, plan choice, and payment via Authorize.net, Stripe, or PayPal, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Prime React, Redux Toolkit, GitHub, Firebase. ",
       "img": "CRM.webp",
-      "link": "https://dev-talkdailyinc.teleyork.com/"
+      "link": "https://dev.zasonewireless.com/"
     },
     {
       "Name": "TechStore",
