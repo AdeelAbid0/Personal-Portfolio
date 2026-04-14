@@ -139,7 +139,7 @@
       "Name": "FIXnGO",
       "Summary": "I developed FIXnGO, a platform for connecting customers with local service providers. The app features real-time booking, user profiles, and seamless payment integration, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. Following Technologies were used ==> HTML, CSS, Tailwind CSS, JavaScript, React.js, Redux Toolkit, React Query, Azure, Vercel, SQL",
       "img": "fixngo.webp",
-      "link": "https://car-services-iota.vercel.app/"
+      "link": "https://fixngo-azure.vercel.app/"
     },
     {
       "Name": "Online Car Service Station",
