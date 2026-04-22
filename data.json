@@ -121,13 +121,7 @@
       "Name": "CRM (Customer Relationship Management)",
       "Summary": "I built a ReactJS-based CRM with a dashboard showcasing enrollments and a seamless process for creating them, including personal info, device/SIM selection, shipping, plan choice, and payment via Authorize.net, Stripe, or PayPal, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Prime React, Redux Toolkit, GitHub, Firebase. ",
       "img": "CRM.webp",
-      "link": "https://dev.zasonewireless.com/"
-    },
-    {
-      "Name": "TechStore",
-      "Summary": "I developed TechStore, an e-commerce web app featuring products like laptops, phones, watches, and accessories. Users can add items to the cart, manage quantities, view the total amount, and proceed to checkout seamlessly, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. ",
-      "img": "ecomm.webp",
-      "link": "https://techstore-43690.web.app/"
+      "link": "https://dev.diversemobile.us/"
     },
     {
       "Name": "Manzil Drive",
@@ -140,6 +134,12 @@
       "Summary": "I developed FIXnGO, a platform for connecting customers with local service providers. The app features real-time booking, user profiles, and seamless payment integration, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. Following Technologies were used ==> HTML, CSS, Tailwind CSS, JavaScript, React.js, Redux Toolkit, React Query, Azure, Vercel, SQL",
       "img": "fixngo.webp",
       "link": "https://fixngo-azure.vercel.app/"
+    },
+    {
+      "Name": "TechStore",
+      "Summary": "I developed TechStore, an e-commerce web app featuring products like laptops, phones, watches, and accessories. Users can add items to the cart, manage quantities, view the total amount, and proceed to checkout seamlessly, and used following Technologies ==> HTML, CSS, Sass, Bootstrap, JavaScript, ReactJS, Redux Toolkit, GitHub, Firebase. ",
+      "img": "ecomm.webp",
+      "link": "https://techstore-43690.web.app/"
     },
     {
       "Name": "Online Car Service Station",
